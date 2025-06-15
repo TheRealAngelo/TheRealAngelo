@@ -11,7 +11,6 @@
   </p>
 
   [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/angelo.m.morales.9)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TheRealAngelo)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:morales.angelo2000@gmail.com)
   [![Portfolio](https://img.shields.io/badge/-Portfolio-24292F?style=flat&logo=vercel&logoColor=white)](https://therealangelo.github.io/portfolioAngelo/)
   [![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/angelo-morales.dad44d28)
