@@ -7,7 +7,7 @@
   <p>
     Computer Science Major from the University of Mindanao<br>
     Passionate about software development, databases,<br>
-    and creating efficient tech solutions.
+    security, and creating efficient tech solutions.
   </p>
 
   [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/angelo.m.morales.9)
@@ -43,7 +43,7 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
+### My Stats
 
 ---
 
