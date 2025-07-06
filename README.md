@@ -54,7 +54,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=therealangelo&theme=radical" height="170" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealangelo&layout=compact&theme=radical" height="200" />
-</div>
-
