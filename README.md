@@ -2,7 +2,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNiejN5czR4b3B3dHlteTd3YmVtbnp1aHczd3JuZ2ZiYjMyeG55eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif" width="100" alt="Monkey code" />
 
   <h1>Hi there, I'm Gelo</h1>
-  <h3>Backend Developer | Tech Enthusiast</h3>
+  <h3>Fullstack Developer | Tech Enthusiast</h3>
 
   <p>
     Computer Science Major from the University of Mindanao<br>
