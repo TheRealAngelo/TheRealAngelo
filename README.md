@@ -5,7 +5,7 @@
   <h3>Fullstack Developer | Tech Enthusiast</h3>
 
   <p>
-    Computer Science Major from the University of Mindanao<br>
+    Computer Science Major from Davao City Philippines<br>
     Passionate about software development, databases,<br>
     security, and creating efficient tech solutions.
   </p>
@@ -56,4 +56,5 @@
 
 
 </div>
+
 
