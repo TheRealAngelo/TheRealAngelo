@@ -39,22 +39,7 @@
 | **Frameworks & Libraries** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) |
 </div>
 
-<div align="center">
 
-### My Stats
-
----
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=therealangelo&show_icons=true&theme=radical&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=therealangelo&theme=radical" height="170" />
-  
-
-
-</div>
 
 
 
