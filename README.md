@@ -14,8 +14,6 @@
   [![Portfolio](https://img.shields.io/badge/-Portfolio-24292F?style=flat&logo=vercel&logoColor=white)](https://therealangelo.github.io/portfolioAngelo/)
   [![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/angelo-morales.dad44d28)
 
-
-
 </div>
 
 <div align="center">
@@ -39,6 +37,7 @@
 | **Frameworks & Libraries** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) |
 
 </div>
+
 
 
 
